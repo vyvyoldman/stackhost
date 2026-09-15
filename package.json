@@ -7,7 +7,6 @@
   "license": "GPL-3.0",
   "private": false,
   "scripts": {
-    "build": "echo build complete",
     "start": "node index.js"
   },
   "dependencies": {
